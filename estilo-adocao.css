@@ -1,0 +1,227 @@
+#topo{
+    height: 145px;
+    background-image: url(/imagens/capa.png) ;
+    padding-top: 25px;
+    
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+
+#topo ul{
+    margin-top: 30px;
+    background: rgb(100, 202, 250);
+    float: left;
+}
+
+#topo ul li{
+    float: left;
+}
+
+#topo ul a{
+    font-size: 1em;
+    display: block;
+    padding: 0.5em 2.1em;
+    text-decoration: none;
+    color: #fff;
+
+}
+
+#topo ul a:hover{
+    color: black;
+    cursor: pointer;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+}
+
+.logo{
+    text-align: center;
+    color: black;
+    text-decoration: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: none;
+    text-shadow: 2px 2px 5px rgb(100, 202, 250);
+    
+}
+
+.img-gato{
+    width: 300px;
+    padding: 15px;
+    align-items: baseline;
+    padding-left: 165px;
+    
+}
+
+.img-cao{
+    width: 300px;
+    padding: 15px;
+    align-items: baseline;
+    padding-left: 165px;
+}
+
+#fotos{
+    display: inline-flex;
+    align-items: baseline;
+    justify-content: space-around;
+}
+
+.texto-cao{
+    text-align: center;
+    color: black;
+    padding: 7px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bloco-cao{
+    width: 40%;
+    margin: 15px;
+    background: linear-gradient(to left, white, white);
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.5);
+    min-height: 100px;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+#fotos-gato{
+    display: inline-flex;
+    align-items: baseline;
+    justify-content: space-around;
+}
+
+.texto-gato{
+    text-align: center;
+    color: black;
+    padding: 7px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bloco-gato{
+    width: 40%;
+    margin: 5px;
+    background: linear-gradient(to left, white, white);
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.5);
+    min-height: 100px;
+}
+
+#texto-inicial{
+    text-align: center;
+}
+
+#fotos-cao{
+    display: inline-flex;
+    align-items: baseline;
+    justify-content: space-around;
+}
+
+#home-fotos{
+    display: block;
+}
+
+.img-home{
+    width: 450px;
+    display: inline-flex;
+    margin: 15px;
+    padding: 15px;
+    align-items: center;
+}
+
+.somos1{
+    text-align: center;
+    
+}
+
+.img-contato{
+    width: 50px;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+       
+}
+
+.somos2{
+    text-align: center;
+}
+
+#contato{
+    text-align: center;
+}
+
+#fotos-cao2{
+    display: inline-flex;
+    align-items: baseline;
+    justify-content: space-around;
+}
+
+.bloco-cao2{
+    width: 40%;
+    margin: 15px;
+    background: linear-gradient(to left, white, white);
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.5);
+    min-height: 100px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img-cao2{
+    width: 300px;
+    padding: 15px;
+    align-items: baseline;
+    padding-left: 165px;
+}
+
+.texto-cao2{
+    text-align: center;
+    color: black;
+    padding: 7px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#fotos-gato2{
+    display: inline-flex;
+    align-items: baseline;
+    justify-content: space-around;
+}
+
+.bloco-gato2{
+    width: 40%;
+    margin: 15px;
+    background: linear-gradient(to left, white, white);
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.5);
+    min-height: 100px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img-gato2{
+    width: 300px;
+    padding: 15px;
+    align-items: baseline;
+    padding-left: 165px;
+}
+
+.texto-gato2{
+    text-align: center;
+    color: black;
+    padding: 7px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.adote{
+    width: 100px;
+    align-items: center;
+}
+
+#adote1{
+    width: 50px;
+    padding: 5px;
+    align-items: baseline;
+    padding-left: 260px;
+}
